@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Ella Gainey 
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+
+description: > 
+  Computer Science student at University of Washington Tacoma. 
   <br><br>
-  Second description 
+  Expected graduation is March 2021. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/ella-gainey">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
