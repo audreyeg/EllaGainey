@@ -1,0 +1,6 @@
+search: GBFS
+puzzle start state: 123456789AB DEFC
+goal state reached: 123456789ABCDEF
+1,4,1,2
+time taken (in ms): 1 Big-O(4^m) + O(log(n)) priority queue enqueue + O(log(n)) priority queue dequeue
+Heuristic selected: h1
