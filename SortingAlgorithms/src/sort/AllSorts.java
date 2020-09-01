@@ -10,6 +10,7 @@ public class AllSorts {
 	
 	/** private field for SortStats object that is sent in from Main */
 	private SortStats stats;
+	private static int[] originalArray;
 	
 	/**
 	 * Constructor
@@ -19,6 +20,13 @@ public class AllSorts {
 		this.stats = ss;
 	}
 
+	public int[] getOriginalArray() {
+		return originalArray;
+	}
+	
+	public void setOriginalArray(int[] array) {
+		originalArray = array;
+	}
 
 	/**
 	 * Helper method that prints arrays

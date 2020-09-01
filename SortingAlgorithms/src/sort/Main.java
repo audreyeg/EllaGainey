@@ -19,7 +19,8 @@ public class Main {
 		int[] unsortedArray = {20, 35, -15, 7, 55, 1, -22};
 
 		AllSorts sort = new AllSorts(stats);
-
+		sort.setOriginalArray(unsortedArray);
+		UI gui = new UI(sort);
 
 		sort.print("Array to be sorted: ", unsortedArray);
 
