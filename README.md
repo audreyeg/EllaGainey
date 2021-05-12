@@ -5,8 +5,9 @@ Hello and thank you for visiting my gitHub page!
 Language: JavaScript 
 <br><br>
 Type: Group of 3, quarter long project. 
-Skills: Animations, creating sprites, creating user interactions, buy/sell dynamics, dialogue choices, 
-inventory control, and original music, story, and dialogue. Gameplay upwards of 30 mins. 
+<br><br>
+Skills: Animations, creating sprites, working in a team, creating user interactions, buy/sell dynamics, dialogue choices, 
+inventory control, and original music, story, and dialogue. Gameplay upwards of 30 mins.  
 <br><br>
  <a href="https://audreyeg.github.io/CompWorlds/">Link to the playable game</a> 
  <br><br>
