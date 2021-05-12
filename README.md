@@ -1,6 +1,6 @@
 Hello and thank you for visiting my gitHub page!
 
-Browser-based 2d role-playing game created in Computational Worlds.
+**Browser-based 2d role-playing game created in Computational Worlds.**
 <br><br>
 Language: JavaScript 
 <br><br>
