@@ -1,4 +1,4 @@
-Hello and thank you for visiting my gitHub page, here are some of the projects I have created while I was pursuing my Bachelors degree!
+Hello and thank you for visiting my gitHub page!
 
 Browser-based 2d role-playing game created in Computational Worlds.
 <br><br>
@@ -9,6 +9,7 @@ Skills: Animations, creating sprites, creating user interactions, buy/sell dynam
 inventory control, and original music, story, and dialogue. Gameplay upwards of 30 mins. 
 <br><br>
  <a href="https://audreyeg.github.io/CompWorlds/">Link to the playable game</a> 
+ <br><br>
  <a href="https://github.com/audreyeg/CompWorlds">Link to source code</a> 
  
 
