@@ -1,13 +1,16 @@
-Hello and thank you for visiting my gitHub page!
+<h2>Featured Projects<h2>
 
-**Browser-based 2d role-playing game**
+**Cowboy RPG (2d-Browser-based)**
 <br><br>
-Language: JavaScript 
+About: Play as a cowboy venturing to a small town in need of your help. Enjoy conversations with multiple NPC's, complete quests, fight coyotes and bandits, level your character up, explore your inventory, and buy items from NPC's. Be wary of drinking beer, you may find your controls inverted. Sucessfully complete three quests and unlock the final boss battle to beat the game. But if you die, it's all over. Featuring an original soundtrack, storyline, and dialogue. 
+Language: JavaScript (94%), HTML/CSS (6%) 
 <br><br>
-Type: Group of 3, quarter long project. 
+Type: A small team of three worked on this project. 
 <br><br>
 Skills: Animations, creating sprites, working in a team, creating user interactions, buy/sell dynamics, dialogue choices, 
 inventory control, and original music, story, and dialogue. Gameplay upwards of 30 mins.  
+<br><br>
+My Main Contributions: All NPC's, dialogue system, main-character's animation, inventory system, all quests, and the 'buy' mechanics in game. As well as scenery work.
 <br><br>
  <a href="https://audreyeg.github.io/CompWorlds/">Link to the playable game</a> 
  <br><br>
