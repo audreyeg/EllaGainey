@@ -1,4 +1,4 @@
-<h2>Featured Projects<h2>
+<h2>Featured Projects</h2>
 
 **Cowboy RPG (2d-Browser-based)**
 <br><br>
