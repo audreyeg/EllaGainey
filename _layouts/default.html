@@ -15,7 +15,7 @@
 
     {% include head-custom.html %}
   </head>
-
+<a href="https://www.linkedin.com/in/ella-gainey/">View My LinkedIn Profile</a> 
   <body>
     <header>
       <div class="inner">
@@ -25,8 +25,6 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
-          <a href="https://www.linkedin.com/in/ella-gainey/" class="button"><small>Connect with me on</small> LinkedIn</a>
-        
         {% endif %}
         {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
@@ -41,7 +39,8 @@
         </section>
 
         <aside id="sidebar">
-          {% if site.show_downloads %}
+           <a href="https://www.linkedin.com/in/ella-gainey/" class="button"><small>Connect with me on</small> LinkedIn</a>
+        <!--  {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>
               .zip file
@@ -50,7 +49,7 @@
               <small>Download</small>
               .tar.gz file
             </a>
-          {% endif %}
+          {% endif %} -->
 
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
