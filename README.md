@@ -1,21 +1,38 @@
 <h2>Featured Projects</h2>
+<b>Cowboy RPG (2d-Browser-based)</b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="https://audreyeg.github.io/CompWorlds/">Link to the playable game</a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp   
+<a href="https://github.com/audreyeg/CompWorlds">Link to source code</a> 
+<br><br>
 
-**Cowboy RPG (2d-Browser-based)**
+ <p float="left">
+ <img src = "images/GAME_startScreen.png" width="450"/>
+ <img src = "images/GAME_about.png" width="295"/>
+ <img src = "images/GAME_info.png" width="225" height="275"/>
+</p>
+
+<p>Town: &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Combat: </p>
+  <p float="left">
+   <img src = "images/GAME_town.png" width="450" height="300"/>
+  <img src = "images/GAME_cowboyBattle.png" width="450" height="300" />
+</p>
+
+<p>Quests: &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Inventory/Chat: </p>
+<p float="left">
+   <img src = "images/GAME_questsUpdate.png" width="450" height="300"/>
+  <img src = "images/GAME_combo.png" width="450" height="300"/>
+</p>
 <br><br>
-About: Play as a cowboy venturing to a small town in need of your help. Enjoy conversations with multiple NPC's, complete quests, fight coyotes and bandits, level your character up, explore your inventory, and buy items from NPC's. Be wary of drinking beer, you may find your controls inverted. Sucessfully complete three quests and unlock the final boss battle to beat the game. But if you die, it's all over. Featuring an original soundtrack, storyline, and dialogue. 
-Language: JavaScript (94%), HTML/CSS (6%) 
+
+<h2>Code Samples</h2>
+<p>NPC dialogue and user response options:</p>
+<img src = "images/GAME_chat.png" width="800" />
+
+<p>Inventory:</p>
+<img src = "images/GAME_inventory.png" width="400" />
+
+<p>Quests:</p>
+<img src = "images/GAME_missionControl.png" width="450" />
 <br><br>
-Type: A small team of three worked on this project. 
-<br><br>
-Skills: Animations, creating sprites, working in a team, creating user interactions, buy/sell dynamics, dialogue choices, 
-inventory control, and original music, story, and dialogue. Gameplay upwards of 30 mins.  
-<br><br>
-My Main Contributions: All NPC's, dialogue system, main-character's animation, inventory system, all quests, and the 'buy' mechanics in game. As well as scenery work.
-<br><br>
- <a href="https://audreyeg.github.io/CompWorlds/">Link to the playable game</a> 
- <br><br>
- <a href="https://github.com/audreyeg/CompWorlds">Link to source code</a> 
- 
+
 
 **Pentago game with human player against AI**
 <br><br>
