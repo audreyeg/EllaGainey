@@ -3,7 +3,7 @@
 
 @import "{pages-themes/architect@v0.2.0}";
 
-.main {
+#main-content {
    width: 80%
    height: 100%
 }
