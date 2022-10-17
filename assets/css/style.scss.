@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{pages-themes/architect@v0.2.0}";
 
 .inner {
   max-width: 75%;
