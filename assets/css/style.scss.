@@ -1,5 +1,5 @@
 
-#main-content {
+#content-wrapper {
    width: 80%
    height: 100%
 }
