@@ -3,6 +3,6 @@
 
 @import "{pages-themes/architect@v0.2.0}";
 
-.inner {
+.main {
   max-width: 75%;
 }
