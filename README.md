@@ -1,7 +1,5 @@
-<h2>Featured Projects</h2>
-<b>Cowboy RPG (2d-Browser-based)</b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="https://audreyeg.github.io/CompWorlds/">Link to the playable game</a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp   
-<a href="https://github.com/audreyeg/CompWorlds">Link to source code</a> 
-<br><br>
+<h2>Featured Projects</h2> 
+<pre> <b>Cowboy RPG (2d-Browser-based)</b>                               <a href="https://audreyeg.github.io/CompWorlds/">Link to the playable game</a>             <a href="https://github.com/audreyeg/CompWorlds">Link to source code</a> </pre>                                                                                           
 
  <p float="left">
  <img src = "images/GAME_startScreen.png" width="450"/>
@@ -9,13 +7,13 @@
  <img src = "images/GAME_info.png" width="225" height="275"/>
 </p>
 
-<p>Town: &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Combat: </p>
+<pre>Town                                                          Combat </pre>
   <p float="left">
    <img src = "images/GAME_town.png" width="450" height="300"/>
   <img src = "images/GAME_cowboyBattle.png" width="450" height="300" />
 </p>
 
-<p>Quests: &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Inventory/Chat: </p>
+<pre>Quests                                                    Inventory/Chat </pre>
 <p float="left">
    <img src = "images/GAME_questsUpdate.png" width="450" height="300"/>
   <img src = "images/GAME_combo.png" width="450" height="300"/>
