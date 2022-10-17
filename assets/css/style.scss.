@@ -6,4 +6,6 @@
    margin-right: auto;
 }
 
-body {background-color: coral;}
+h2 {
+  color: green;
+}
