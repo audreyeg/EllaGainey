@@ -4,6 +4,5 @@
 @import "{pages-themes/architect@v0.2.0}";
 
 .main {
-  margin-left: auto;
-   margin-right: auto
+   padding-left: 80px;
 }
