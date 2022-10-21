@@ -1,3 +1,1 @@
-Hello and welcome to my page! I have all my featured programs on this page. 
- <br><br>
- <a href="https://github.com/audreyeg/EllaGainey/tree/master/15Puzzle">Portfolio</a> 
+Hello and welcome to my page! I have a B.S. in Computer Science and a minor in mathematics from the University of Washington-Tacoma. I graduated in March 2021. I am currently looking for software engineering positions. 
